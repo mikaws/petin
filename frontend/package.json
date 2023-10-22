@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "PetIN Frontend",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Adoção",
+    "Pet",
+    "Cachorro",
+    "Gato",
+    "Animais",
+    "Lar"
+  ],
+  "author": "Guilherme, Michael, Julia, Bayerl, Sarah e Bianka",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
