@@ -1,0 +1,28 @@
+:root {
+  --blue: #7acfdf;
+  --dark-blue: #3cacc3;
+  --orange: #f47645;
+  --off-white: rgb(246, 246, 246);
+  --font-grey: rgb(117, 117, 117);
+  --font-dark-grey: rgb(69, 69, 69);
+}
+
+.login {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login h1 {
+  color: var(--blue);
+}
+
+.login p {
+  color: white;
+}
+
+.login .btn {
+    background-color: #f47645;
+    cursor: pointer;
+}
